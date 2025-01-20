@@ -9,9 +9,17 @@
     "inputs": {
       "input1": "1",
       "input2": "11",
-      "input3": ""
+      "input3": "",
+      "input4": ""
     },
     "moduleInputs": {
+      "bbhhwmjfwe": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "bbhhwmjfwe",
+        "label": "input4",
+        "propertyName": "inputs.input4"
+      },
       "jybzlttita": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "1",
