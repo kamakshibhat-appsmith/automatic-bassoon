@@ -8,7 +8,8 @@
     "contextType": "PAGE",
     "inputs": {
       "input1": "1",
-      "input2": "11"
+      "input2": "11",
+      "input3": ""
     },
     "moduleInputs": {
       "jybzlttita": {
@@ -17,6 +18,13 @@
         "id": "jybzlttita",
         "label": "input1",
         "propertyName": "inputs.input1"
+      },
+      "qrfmbbknzk": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "qrfmbbknzk",
+        "label": "input3",
+        "propertyName": "inputs.input3"
       },
       "xcqmqjddbs": {
         "controlType": "INPUT_TEXT",
