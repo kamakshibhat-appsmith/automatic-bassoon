@@ -10,7 +10,8 @@
       "input1": "1",
       "input2": "11",
       "input3": "",
-      "input4": ""
+      "input4": "",
+      "input5": ""
     },
     "moduleInputs": {
       "bbhhwmjfwe": {
@@ -26,6 +27,13 @@
         "id": "jybzlttita",
         "label": "input1",
         "propertyName": "inputs.input1"
+      },
+      "ngpkxasfli": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "",
+        "id": "ngpkxasfli",
+        "label": "input5",
+        "propertyName": "inputs.input5"
       },
       "qrfmbbknzk": {
         "controlType": "INPUT_TEXT",
