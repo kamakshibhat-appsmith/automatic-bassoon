@@ -7,7 +7,8 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "input1": "1"
+      "input1": "1",
+      "input2": "11"
     },
     "moduleInputs": {
       "jybzlttita": {
@@ -16,6 +17,13 @@
         "id": "jybzlttita",
         "label": "input1",
         "propertyName": "inputs.input1"
+      },
+      "xcqmqjddbs": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "11",
+        "id": "xcqmqjddbs",
+        "label": "input2",
+        "propertyName": "inputs.input2"
       }
     },
     "name": "QueryModule11",
